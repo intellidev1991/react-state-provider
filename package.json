@@ -1,0 +1,50 @@
+{
+  "name": "react-state-provider",
+  "version": "1.0.0",
+  "description": "Fully native global state provider using ReactContext and Hooks. You can use this library instead of Redux or Mobx. also you can access state from all of your components and behavior with them using hooks.",
+  "keywords": [
+    "react",
+    "react-native",
+    "react-context",
+    "react-state",
+    "react-state-management",
+    "react-redux",
+    "react-hooks",
+    "react-context-api",
+    "react-state-hook",
+    "react-global-state",
+    "reactjs",
+    "react-library",
+    "react-state-provider"
+  ],
+  "author": "Hamed Taheri",
+  "license": "MIT",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/intellidev1991/react-state-provider.git"
+  },
+  "bugs": {
+    "url": "https://github.com/intellidev1991/react-state-provider/issues"
+  },
+  "homepage": "https://github.com/intellidev1991/react-state-provider#readme",
+  "dependencies": {
+    "prop-types": "15.7.2",
+    "react": "16.8.6",
+    "react-scripts": "3.0.1"
+  },
+  "devDependencies": {
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}
